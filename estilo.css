@@ -1,0 +1,30 @@
+  @charset "utf-8";
+  
+  div{
+      background-color: whitesmoke;
+      border: 1px solid black;
+     
+      width: 500px;
+      height: 200px;
+  }
+
+  .red{
+    color:red;
+  }
+
+  .blue{
+    color:blue;
+  }
+
+  .purple{
+    color:blueviolet;
+  }
+
+  body{
+    background-image: linear-gradient(to right,#9DA3B0,#DBCDC5);
+  }
+
+  #principal{
+    text-align: center;
+    font-size: 3em;
+  }

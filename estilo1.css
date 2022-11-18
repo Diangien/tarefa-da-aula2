@@ -1,0 +1,17 @@
+@charset "utf-8";
+
+html{
+    scroll-behavior: smooth;
+}
+
+main{
+    background-color: white;
+    border-radius: 10px;
+    padding:10px;
+    margin: auto;
+    width: 600px;
+}
+
+body{
+    background-image: linear-gradient(to right,#F5EA53,#DEB347);
+}
